@@ -1,0 +1,40 @@
+m:\Visual Studio 2013\Projects\master code\master code\bin\Debug\master code.exe.config
+M:\Visual Studio 2013\Projects\master code\master code\obj\Debug\ConsoleApplication1.Resources.resources
+M:\Visual Studio 2013\Projects\master code\master code\obj\Debug\master code.vbproj.GenerateResource.Cache
+M:\Visual Studio 2013\Projects\master code\master code\bin\Debug\master code.exe
+M:\Visual Studio 2013\Projects\master code\master code\bin\Debug\master code.pdb
+M:\Visual Studio 2013\Projects\master code\master code\bin\Debug\master code.xml
+M:\Visual Studio 2013\Projects\master code\master code\obj\Debug\master code.exe
+M:\Visual Studio 2013\Projects\master code\master code\obj\Debug\master code.xml
+M:\Visual Studio 2013\Projects\master code\master code\obj\Debug\master code.pdb
+E:\master code\master code\bin\Debug\master code.exe.config
+E:\master code\master code\obj\Debug\master code.exe
+E:\master code\master code\obj\Debug\master code.xml
+E:\master code\master code\obj\Debug\master code.pdb
+E:\master code\master code\bin\Debug\master code.exe
+E:\master code\master code\bin\Debug\master code.pdb
+E:\master code\master code\bin\Debug\master code.xml
+E:\master code\master code\obj\Debug\ConsoleApplication1.Resources.resources
+E:\master code\master code\obj\Debug\master code.vbproj.GenerateResource.Cache
+H:\master code\master code\bin\Debug\master code.exe.config
+H:\master code\master code\obj\Debug\master code.exe
+H:\master code\master code\obj\Debug\master code.xml
+H:\master code\master code\obj\Debug\master code.pdb
+H:\master code\master code\bin\Debug\master code.exe
+H:\master code\master code\bin\Debug\master code.pdb
+H:\master code\master code\bin\Debug\master code.xml
+H:\master code\master code\obj\Debug\ConsoleApplication1.Resources.resources
+H:\master code\master code\obj\Debug\master code.vbproj.GenerateResource.Cache
+E:\computer science\master code\master code\bin\Debug\master code.exe.config
+E:\computer science\master code\master code\bin\Debug\master code.exe
+E:\computer science\master code\master code\bin\Debug\master code.pdb
+E:\computer science\master code\master code\bin\Debug\master code.xml
+E:\computer science\master code\master code\obj\Debug\ConsoleApplication1.Resources.resources
+E:\computer science\master code\master code\obj\Debug\master code.vbproj.GenerateResource.Cache
+E:\computer science\master code\master code\obj\Debug\master code.exe
+E:\computer science\master code\master code\obj\Debug\master code.xml
+E:\computer science\master code\master code\obj\Debug\master code.pdb
+D:\computer science\master code\master code\bin\Debug\master code.exe.config
+D:\computer science\master code\master code\obj\Debug\master code.exe
+D:\computer science\master code\master code\obj\Debug\master code.xml
+D:\computer science\master code\master code\obj\Debug\master code.pdb
